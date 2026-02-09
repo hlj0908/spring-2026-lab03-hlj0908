@@ -1,0 +1,13 @@
+{
+  "original_features": 13,
+  "engineered_features": 28,
+  "added_features": 15,
+  "feature_types": {
+    "ratio_features": 4,
+    "interaction_features": 4,
+    "polynomial_features": 4,
+    "log_transformed_features": 3
+  },
+  "scaling_method": "StandardScaler (z-score normalization)",
+  "total_samples": 178
+}

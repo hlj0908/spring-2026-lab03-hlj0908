@@ -1,0 +1,13 @@
+{
+  "best_params": {
+    "subsample": 0.7,
+    "n_estimators": 200,
+    "min_child_weight": 3,
+    "max_depth": 4,
+    "learning_rate": 0.2,
+    "gamma": 0.2,
+    "colsample_bytree": 0.6
+  },
+  "best_score": 0.9719211822660098,
+  "cv_results_summary": "Best of 20 iterations across 5 folds"
+}

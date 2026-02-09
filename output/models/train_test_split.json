@@ -1,0 +1,7 @@
+{
+  "train_size": 142,
+  "test_size": 36,
+  "test_size_ratio": 0.2,
+  "random_seed": 42,
+  "stratified": true
+}

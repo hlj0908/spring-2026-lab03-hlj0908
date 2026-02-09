@@ -1,0 +1,7 @@
+malic_acid: 3 outliers
+ash: 3 outliers
+alcalinity_of_ash: 4 outliers
+magnesium: 4 outliers
+proanthocyanins: 2 outliers
+color_intensity: 3 outliers
+hue: 1 outliers
